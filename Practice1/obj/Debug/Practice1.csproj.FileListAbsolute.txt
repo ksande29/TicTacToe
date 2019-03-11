@@ -1,0 +1,7 @@
+C:\Users\Kate\Documents\CSIS 2410\csharp\Practice\Practice1\Practice1\bin\Debug\Practice1.exe.config
+C:\Users\Kate\Documents\CSIS 2410\csharp\Practice\Practice1\Practice1\bin\Debug\Practice1.exe
+C:\Users\Kate\Documents\CSIS 2410\csharp\Practice\Practice1\Practice1\bin\Debug\Practice1.pdb
+C:\Users\Kate\Documents\CSIS 2410\csharp\Practice\Practice1\Practice1\obj\Debug\Practice1.csprojAssemblyReference.cache
+C:\Users\Kate\Documents\CSIS 2410\csharp\Practice\Practice1\Practice1\obj\Debug\Practice1.csproj.CoreCompileInputs.cache
+C:\Users\Kate\Documents\CSIS 2410\csharp\Practice\Practice1\Practice1\obj\Debug\Practice1.exe
+C:\Users\Kate\Documents\CSIS 2410\csharp\Practice\Practice1\Practice1\obj\Debug\Practice1.pdb
